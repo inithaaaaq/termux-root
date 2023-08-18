@@ -18,7 +18,7 @@ pkg install git -y
 
 ```bash
 # Cloning files via GIT...
-git clone https://github.com/woroxdev/termux-root.git && cd termux-root && chmod +x *
+git clone https://github.com/woroxdev/termux-root.v1.git && cd termux-root && chmod +x *
 ```
 
 ```bash
