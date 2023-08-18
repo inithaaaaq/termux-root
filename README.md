@@ -22,8 +22,8 @@ git clone https://github.com/woroxdev/termux-root.git && cd termux-root && chmod
 ```
 
 ```bash
-# Installing packages...
-pkg install wget proot -y
+# Upgrading packages...
+pkg upgrade
 ```
 
 ---
@@ -35,13 +35,6 @@ pkg install wget proot -y
 ```bash
 # Running the BASH script "install.sh"...
 bash install.sh
-```
-
-after installing the necessary executables for root access & the ubuntu environment, we will run them.
-
-```bash
-# Running BASH script "start.sh"...
-bash start.sh
 ```
 
 ---
