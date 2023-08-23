@@ -32,5 +32,3 @@ sleep 2
 proot-distro login ubuntu
 
 echo "[+] - Successfully logging !"
-
-# Reste de votre script ici
